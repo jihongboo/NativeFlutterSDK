@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 
-s.name                  = "FlutterNativeSDK"
+s.name                  = "NativeFlutterSDK"
 s.version               = "1.0.0"
 s.summary               = "FlutterNative Flutter SDK"
 s.homepage              = "https://github.com/jihongboo/NativeFlutterSDK"
