@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
 s.name                  = "NativeFlutterSDK"
-s.version               = "1.0.4"
+s.version               = "1.0.5"
 s.summary               = "FlutterNative Flutter SDK"
 s.homepage              = "https://github.com/jihongboo/NativeFlutterSDK"
 s.license               = { :type => "MIT", :file => "LICENSE" }
